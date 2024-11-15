@@ -2,7 +2,7 @@
     "version": 2,
     "builds": [
       {
-        "src": "car-management-frontend/car-management-app/package.json",
+        "src": "car-management-backend/car-management-app/package.json",
         "use": "@vercel/react"
       },
       {
